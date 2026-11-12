@@ -8,14 +8,14 @@
 
 ## About
 
-<p align="justify">I wanted to practice Love2D so i can make my own game in the future which will be a passion project, that is why i am making small games like these to get experience. You are a green sqaure defending against the endless waves of red circles and get the highest score.</p>
+<p align="justify">I wanted to practice Love2D so i can make my own game in the future which will be a passion project, that is why i am making small games like these to get experience. You are a green square defending against the endless waves of red circles and get the highest score.</p>
 
 ## Controls
 
 | Action | Key |
 | :--- | :--- |
 | Move | `W` `A` `S` `D` or Arrow Keys |
-| Attack | `Space` |
+| Attack | `Space` or `Return` |
 
 ## How to Run
 
@@ -27,7 +27,7 @@
 <p align="justify">Since the game is still in development, here are some of the things that are planned or being worked on. This list will grow and change as the project progresses.</p>
 
 - [x] Player movement (WASD / arrow keys)
-- [ ] Basic attack (Spacebar)
+- [x] Basic attack (Spacebar)
 - [ ] Enemy spawning (red dots)
 - [ ] One-hit death and dodging
 - [ ] Scoring / survival timer
