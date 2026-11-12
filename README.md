@@ -27,7 +27,7 @@
 <p align="justify">Since the game is still in development, here are some of the things that are planned or being worked on. This list will grow and change as the project progresses.</p>
 
 - [x] Player movement (WASD / arrow keys)
-- [x] Basic attack (Spacebar)
+- [x] Basic attack (Spacebar / Return)
 - [ ] Enemy spawning (red dots)
 - [ ] One-hit death and dodging
 - [ ] Scoring / survival timer
